@@ -1,0 +1,12 @@
+h4{
+    background-color: rgb(143, 143, 143);
+    color: blueviolet;
+    font-size: 30px;
+    border: 2px solid;
+    padding: 10px;
+    cursor: pointer;
+}
+h4:hover {
+    color: antiquewhite;
+    transition: all 0.5s ease;
+}
